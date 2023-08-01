@@ -1,5 +1,25 @@
 <h1 align='center'>🜾</h1>
 
+## Checklist
+
+When you use this template, try to follow the checklist to update your info properly 
+
+- [ ] Modify LICENSING as needed
+
+- [ ] Change the title in `App.vue` 
+- [ ] Change title on home page
+
+- [ ] Change the default MYRIAD SYMBOL to reflect Desired Branding
+
+- [ ] Change the hostname in `vite.config.ts`
+- [ ] change all github links to point to the proper site
+- [ ] change demo link to hosted site
+- [ ] add Logo to index.vue
+
+- [ ] Change the favicon in `public`
+
+- [ ] Clean up the README when finished
+
 <p align='center'>
   MaGiK DoR - Base Vite Template for Coventry Grove sites incorporating new myrKiSs Builder Structure
 </p>
@@ -83,26 +103,6 @@ Then, after review, deploy to production with
 ```
 ntl deploy --prod
 ```
-
-## Checklist
-
-When you use this template, try to follow the checklist to update your info properly 
-
-- [ ] Modify LICENSING as needed
-
-- [ ] Change the title in `App.vue` 
-- [ ] Change title on home page
-
-- [ ] Change the default MYRIAD SYMBOL to reflect Desired Branding
-
-- [ ] Change the hostname in `vite.config.ts`
-- [ ] change all github links to point to the proper site
-- [ ] change demo link to hosted site
-- [ ] add Logo to index.vue
-
-- [ ] Change the favicon in `public`
-
-- [ ] Clean up the README when finished
 
 ## Features
 

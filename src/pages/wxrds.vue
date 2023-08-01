@@ -5,36 +5,36 @@ import StepInStone from '~/components/StepInStone.vue'
 
 const testWxrds = ref([
   {
-    wxrdvalue: 'test',
-    wxrdtype: '',
-    content: '',
+    wxrdvalue: 'SCA',
+    wxrdtype: 'CGBuilding',
+    content: 'Sylfan Circle Academy',
     related: '',
     uuid: '',
-    image: '',
+    image: '', // TODO: put logo here
   },
   {
-    wxrdvalue: 'test2',
-    wxrdtype: '',
-    content: '',
+    wxrdvalue: 'SCS',
+    wxrdtype: 'CGBuilding',
+    content: 'Sonic Circle Syndicated', // TODO: modify all refs to "Sonic Circle Shell"
     related: '',
     uuid: '',
-    image: '',
+    image: '', // TODO: put logo here
   },
   {
-    wxrdvalue: 'test3',
-    wxrdtype: '',
-    content: '',
+    wxrdvalue: 'STS',
+    wxrdtype: 'CGBuilding',
+    content: 'Shepton Transmission Services',
     related: '',
     uuid: '',
-    image: '',
+    image: '', // TODO: put logo here
   },
 ])
 </script>
 
 <template>
-  <p>
-    Wxrds
-  </p>
+  <h1>owAob</h1>
+
+  <p>Our Wxrds Are Our Building</p>
 
   <StepInStone
     v-for="wxrd in testWxrds"
