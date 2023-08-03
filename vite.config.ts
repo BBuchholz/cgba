@@ -101,8 +101,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'MaGiK DoR',
-        short_name: 'MD',
+        name: 'Coventry Grove Builders Association',
+        short_name: 'CGBA',
         theme_color: '#ffffff',
         icons: [
           {
