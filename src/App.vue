@@ -8,7 +8,7 @@ useHead({
     { name: 'description', content: 'Home Base for all Coventry Grove Building Projeckts' },
     {
       name: 'theme-color',
-      content: computed(() => isDark.value ? '#00aba9' : '#ffffff'),
+      content: computed(() => isDark.value ? '#000000' : '#ffffff'),
     },
   ],
   link: [

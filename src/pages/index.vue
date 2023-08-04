@@ -16,16 +16,6 @@ const { t } = useI18n()
 
 <template>
   <div>
-    <img alt="Coventry Grove Builders Association Presents logo" src="/CGBAP_LOGO_CROPPED.png">
-    <p>
-      <a rel="noreferrer" href="https://github.com/BBuchholz/magik-dor" target="_blank">
-        MaGiK DoR
-      </a>
-    </p>
-    <p>
-      <em text-sm opacity-75>base template for all Coventry Grove Projeckts</em>
-    </p>
-
     <div py-4 />
 
     <TheInput
@@ -45,6 +35,11 @@ const { t } = useI18n()
         {{ t('button.go') }}
       </button>
     </div>
+    <img alt="CGBA logo" :src="isDark ? '/CGBA_LOGO-DARK.png' : '/CGBA_LOGO-LIGHT.png'">
+
+    <p>
+      <em text-sm opacity-75>Home Base for all Coventry Grove Building Projeckts</em>
+    </p>
   </div>
 </template>
 
@@ -55,8 +50,8 @@ meta:
 
 <style>
 img {
-  height: 25%;
-  width: 25%;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
