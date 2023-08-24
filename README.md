@@ -22,6 +22,9 @@ When you use this template, try to follow the checklist to update your info prop
 <br>
 
 
+See [Myriad Checklist](./MYRIAD_CHECKLIST.md) for current status as a Myriad Central Node (as this is the template, you'll see where we're at ecosystem wise as we will start everything here and migrate out to other sites as it stablizes)
+
+
 
 ## Usage
 
