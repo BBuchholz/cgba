@@ -1,6 +1,16 @@
 <template>
+  <p class="mesa">
+    this a WorkIn Progress, with dev notes hosted at
+    <a
+      target="_blank"
+      href="https://baolg.netlify.app/myrKiSs/CGBA"
+    >
+      WorkShop Portfolio BAOLG
+    </a>
+    (I -> Sh, cf. Hebrew ISh) (visit with passCode "CGBA" to see public comments)
+  </p>
   <p class="academic">
-    "During the Satanic Panic, parents were heavily concerned with the largely unfounded myths that their children were running around blending fantasy with reality in dangerous ways..." - Dr. XXX YYY, professor of ZZZ WWW
+    "During the Satanic Panic of XXXX parents were heavily concerned with the largely unfounded myths that their children were running around blending fantasy with reality in dangerous ways..." - Dr. XXX YYY, professor of ZZZ WWW
   </p>
   <p class="second-tier">
     "What if you did that but not in a Criminal way? like harnessed the imaginative power of LARP without the dangers of getting arrested, while still keeping it much more real than nerf swords and costumes?" - persona B
@@ -10,9 +20,6 @@
   </p>
   <p class="sorcerer">
     "yeah... we're doing that..." - persona D
-  </p>
-  <p class="mesa">
-    this a WorkIng Progress, with dev notes hosted at WorkShop Portfolio BAOLG (I -> Sh, cf. Hebrew ISh) (visit with passCode "CGBA" to see public comments)
   </p>
   <div>
     <img
